@@ -25,6 +25,8 @@ Parts NOT oriented for printing
   
 # Pandora Gantry
 - CNC Cartographer
+  - X End Stop
+- Y End Stop Mount
 
 # Colony Clacker Fridge Door
 - 3mm foam
@@ -32,6 +34,7 @@ Parts NOT oriented for printing
   - 350mm x2
   - 250mm x2
 - Round silicone foam seal strip (0.07in/1.8mm diameter)
+
 
 
 
