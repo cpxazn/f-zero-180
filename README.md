@@ -27,5 +27,11 @@ Parts NOT oriented for printing
 - CNC Cartographer
 
 # Colony Clacker Fridge Door
+- 3mm foam
+- Frame
+  - 350mm x2
+  - 250mm x2
+- Round silicone foam seal strip (0.07in/1.8mm diameter)
+
 
 
