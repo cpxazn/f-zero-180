@@ -14,7 +14,7 @@ Parts NOT oriented for printing
 # Skirts
 - Remixed Micron Side Skirts
 - Remixed Micron Rear Skirt with Inlet
-- Remixed Colony Clacker 4.3 TFT Screen Mount (Arthur le Daron)
+- Remixed Colony Clacker BTT 4.3 TFT Screen Mount (Arthur le Daron)
 
 # Panels
 - Self Hand Cut Panels
@@ -35,6 +35,9 @@ Parts NOT oriented for printing
   - 250mm x2
 - Round silicone foam seal strip (0.07in/1.8mm diameter)
 
+# Bed
+- Mandala Rose Works Micron/TinyT 185 Bed
+- Blurolls Micron+ 180 Silicone Heater
 
 
 
